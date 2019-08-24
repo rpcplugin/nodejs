@@ -1,6 +1,6 @@
 {
     "name": "rpcplugin",
-    "version": "0.0.1",
+    "version": "0.0.2-dev",
     "description": "Node.js implementation of rpcplugin, for both clients and servers",
     "license": "MIT",
     "main": "rpcplugin",
