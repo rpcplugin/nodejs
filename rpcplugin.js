@@ -1,3 +1,6 @@
 
+const server = require('./server');
 
-module.exports = {};
+module.exports = {
+    serve: server.serve,
+};
