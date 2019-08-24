@@ -1,0 +1,12 @@
+{
+    "name": "rpcplugin",
+    "version": "0.1.0",
+    "description": "Node.js implementation of rpcplugin, for both clients and servers",
+    "license": "MIT",
+    "main": "rpcplugin",
+    "dependencies": {
+        "grpc": "^1.23.3",
+        "@grpc/proto-loader": "^0.5.1",
+        "google-protobuf": "^3.9.1"
+    }
+}
