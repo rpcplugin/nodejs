@@ -9,6 +9,6 @@
         "grpc-health-check": "^1.7.0",
         "@grpc/proto-loader": "^0.5.1",
         "google-protobuf": "^3.9.1",
-        "node-forge": "0.8.5"
+        "node-forge": "1.3.0"
     }
 }
